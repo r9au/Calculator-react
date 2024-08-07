@@ -1,0 +1,17 @@
+.key{
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    background-color: white;
+    border: 2px solid black;
+    margin-top: 5px;
+    border-radius: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: 300;
+    cursor: pointer;
+}
+.key:hover{
+    background-color: black;
+    color: white;
+}
